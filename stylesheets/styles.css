@@ -16,3 +16,9 @@ h6 {
   bottom: 0;
   height: inherit;
 }
+.active {
+  background-color: grey;
+}
+.content {
+  font-weight: bold;
+}
